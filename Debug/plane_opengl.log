@@ -1,0 +1,12 @@
+﻿  glad.c
+  plane_opengl.cpp
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(233): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(260): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(377): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(378): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(382): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(383): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(384): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(385): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\plane_opengl\plane_opengl\plane_opengl.cpp(408): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  plane_opengl.vcxproj -> C:\Users\admin\source\repos\plane_opengl\Debug\plane_opengl.exe
